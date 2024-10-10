@@ -11,4 +11,4 @@ Este es un sistema simple para gestionar diferentes tipos de vehículos en un co
 ## Instrucciones para Ejecutar
 
 1. Clona el repositorio.
-2. Ejecuta `python gestion_vehiculos.py` para ver la información de los vehículos.
+2. Ejecuta `python main.py` para ver la información de los vehículos.
